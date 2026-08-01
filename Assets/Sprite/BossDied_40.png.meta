@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: e318323e94e0f2a4081dcb45d6b9cfed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 251923653986003674
+    second: BossDied_40_0
+  - first:
+      213: -7648590693386614231
+    second: BossDied_40_1
+  - first:
+      213: -3622257519228390042
+    second: BossDied_40_2
+  - first:
+      213: -5710456223463270620
+    second: BossDied_40_3
+  - first:
+      213: 7286548729297019775
+    second: BossDied_40_4
+  - first:
+      213: 2653207607534344552
+    second: BossDied_40_5
+  - first:
+      213: -603855478264297499
+    second: BossDied_40_6
+  - first:
+      213: -8487659040528753676
+    second: BossDied_40_7
+  - first:
+      213: 2451131958013153478
+    second: BossDied_40_8
+  - first:
+      213: 1475671474051847866
+    second: BossDied_40_9
+  - first:
+      213: -1010676071150990523
+    second: BossDied_40_10
+  - first:
+      213: -131831942030178684
+    second: BossDied_40_11
+  - first:
+      213: -6276883100925283273
+    second: BossDied_40_12
+  - first:
+      213: -3713057693268006279
+    second: BossDied_40_13
+  - first:
+      213: -5161829308420208340
+    second: BossDied_40_14
+  - first:
+      213: -4031398409671673152
+    second: BossDied_40_15
+  - first:
+      213: 5611763579292785771
+    second: BossDied_40_16
+  - first:
+      213: 6590226847742946818
+    second: BossDied_40_17
+  - first:
+      213: -4654723091330057152
+    second: BossDied_40_18
+  - first:
+      213: -840035730961650014
+    second: BossDied_40_19
+  - first:
+      213: 7905534873933558459
+    second: BossDied_40_20
+  - first:
+      213: -8331239958807421682
+    second: BossDied_40_21
+  - first:
+      213: 6198266840216082681
+    second: BossDied_40_22
+  - first:
+      213: -6019296617730528669
+    second: BossDied_40_23
+  - first:
+      213: -2262365341365107221
+    second: BossDied_40_24
+  - first:
+      213: -3953221554648004956
+    second: BossDied_40_25
+  - first:
+      213: 2408996941534159794
+    second: BossDied_40_26
+  - first:
+      213: 2558068236778897676
+    second: BossDied_40_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossDied_40_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 1526
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5233673, y: 0.09114725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaaa528a330f7300800000000000000
+      internalID: 251923653986003674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a0550d94fbad590800000000000000
+      internalID: -7648590693386614231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66577615af72bbdc0800000000000000
+      internalID: -3622257519228390042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4279d0fe15260c0b0800000000000000
+      internalID: -5710456223463270620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73a258a6750f1560800000000000000
+      internalID: 7286548729297019775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 79
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d272034612d420800000000000000
+      internalID: 2653207607534344552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7026254acae97f0800000000000000
+      internalID: -603855478264297499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 79
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb96aa7217c53a80800000000000000
+      internalID: -8487659040528753676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c05bf6778b240220800000000000000
+      internalID: 2451131958013153478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab699002363aa7410800000000000000
+      internalID: 1475671474051847866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bce04d77b59f1f0800000000000000
+      internalID: -1010676071150990523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486cd351c83ab2ef0800000000000000
+      internalID: -131831942030178684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73432b8731804e8a0800000000000000
+      internalID: -6276883100925283273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aaa3a53b1987cc0800000000000000
+      internalID: -3713057693268006279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c960b79f7d58b0800000000000000
+      internalID: -5161829308420208340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_15
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caf17371889d08c0800000000000000
+      internalID: -4031398409671673152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c98333e3df0ed40800000000000000
+      internalID: 5611763579292785771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ee5f8c660357b50800000000000000
+      internalID: 6590226847742946818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb67d920a176fb0800000000000000
+      internalID: -4654723091330057152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae256114f79754f0800000000000000
+      internalID: -840035730961650014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b540251a16bd60800000000000000
+      internalID: 7905534873933558459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d5eb4f56d716c80800000000000000
+      internalID: -8331239958807421682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f89922f9daa40650800000000000000
+      internalID: 6198266840216082681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a26762e99277ca0800000000000000
+      internalID: -6019296617730528669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be507c365b67a90e0800000000000000
+      internalID: -2262365341365107221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c9cce0f55329c0800000000000000
+      internalID: -3953221554648004956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3652574f97e6120800000000000000
+      internalID: 2408996941534159794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDied_40_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 43
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018a641285108320800000000000000
+      internalID: 2558068236778897676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 131935bb0585e414bb95b004d0034e81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossDied_40_0: 251923653986003674
+      BossDied_40_1: -7648590693386614231
+      BossDied_40_10: -1010676071150990523
+      BossDied_40_11: -131831942030178684
+      BossDied_40_12: -6276883100925283273
+      BossDied_40_13: -3713057693268006279
+      BossDied_40_14: -5161829308420208340
+      BossDied_40_15: -4031398409671673152
+      BossDied_40_16: 5611763579292785771
+      BossDied_40_17: 6590226847742946818
+      BossDied_40_18: -4654723091330057152
+      BossDied_40_19: -840035730961650014
+      BossDied_40_2: -3622257519228390042
+      BossDied_40_20: 7905534873933558459
+      BossDied_40_21: -8331239958807421682
+      BossDied_40_22: 6198266840216082681
+      BossDied_40_23: -6019296617730528669
+      BossDied_40_24: -2262365341365107221
+      BossDied_40_25: -3953221554648004956
+      BossDied_40_26: 2408996941534159794
+      BossDied_40_27: 2558068236778897676
+      BossDied_40_3: -5710456223463270620
+      BossDied_40_4: 7286548729297019775
+      BossDied_40_5: 2653207607534344552
+      BossDied_40_6: -603855478264297499
+      BossDied_40_7: -8487659040528753676
+      BossDied_40_8: 2451131958013153478
+      BossDied_40_9: 1475671474051847866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

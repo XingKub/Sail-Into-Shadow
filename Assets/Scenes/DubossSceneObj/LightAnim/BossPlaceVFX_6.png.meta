@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: c95de87d5a7ac664b90506a619c27925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3646257639650920563
+    second: BossPlaceVFX_6_0
+  - first:
+      213: 8148941200927776364
+    second: BossPlaceVFX_6_1
+  - first:
+      213: 3975470411899127548
+    second: BossPlaceVFX_6_2
+  - first:
+      213: -7174252696778098186
+    second: BossPlaceVFX_6_3
+  - first:
+      213: 1530207393286482896
+    second: BossPlaceVFX_6_4
+  - first:
+      213: -6084049972793308701
+    second: BossPlaceVFX_6_5
+  - first:
+      213: -2710805934831166663
+    second: BossPlaceVFX_6_6
+  - first:
+      213: 3640150030470890084
+    second: BossPlaceVFX_6_7
+  - first:
+      213: -1387956850387427438
+    second: BossPlaceVFX_6_8
+  - first:
+      213: 2967651500871995253
+    second: BossPlaceVFX_6_9
+  - first:
+      213: -5300862286693086539
+    second: BossPlaceVFX_6_10
+  - first:
+      213: -8773655460458461253
+    second: BossPlaceVFX_6_11
+  - first:
+      213: 3737139369034676253
+    second: BossPlaceVFX_6_12
+  - first:
+      213: -5345360700216564258
+    second: BossPlaceVFX_6_13
+  - first:
+      213: 405662967771362091
+    second: BossPlaceVFX_6_14
+  - first:
+      213: -3028617266023053005
+    second: BossPlaceVFX_6_15
+  - first:
+      213: -8754224609176061272
+    second: BossPlaceVFX_6_16
+  - first:
+      213: 5906558719158554590
+    second: BossPlaceVFX_6_17
+  - first:
+      213: -850963516352172339
+    second: BossPlaceVFX_6_18
+  - first:
+      213: 1027978075174596540
+    second: BossPlaceVFX_6_19
+  - first:
+      213: 8619393656754813451
+    second: BossPlaceVFX_6_20
+  - first:
+      213: -552030577120127722
+    second: BossPlaceVFX_6_21
+  - first:
+      213: 2540490971141425729
+    second: BossPlaceVFX_6_22
+  - first:
+      213: 1252312290485818548
+    second: BossPlaceVFX_6_23
+  - first:
+      213: 655582390523671251
+    second: BossPlaceVFX_6_24
+  - first:
+      213: 227746997623204705
+    second: BossPlaceVFX_6_25
+  - first:
+      213: 6404341571925516957
+    second: BossPlaceVFX_6_26
+  - first:
+      213: 6676044895797667024
+    second: BossPlaceVFX_6_27
+  - first:
+      213: -6401794165067089809
+    second: BossPlaceVFX_6_28
+  - first:
+      213: -2893928794399855729
+    second: BossPlaceVFX_6_29
+  - first:
+      213: -1763721193116250916
+    second: BossPlaceVFX_6_30
+  - first:
+      213: -4581613485187157299
+    second: BossPlaceVFX_6_31
+  - first:
+      213: 6713352012784331455
+    second: BossPlaceVFX_6_32
+  - first:
+      213: -8245583219875572379
+    second: BossPlaceVFX_6_33
+  - first:
+      213: 6755765071848205100
+    second: BossPlaceVFX_6_34
+  - first:
+      213: -5961909119735388655
+    second: BossPlaceVFX_6_35
+  - first:
+      213: 3928659887507765197
+    second: BossPlaceVFX_6_36
+  - first:
+      213: 6534725208042448028
+    second: BossPlaceVFX_6_37
+  - first:
+      213: 6369200988258818893
+    second: BossPlaceVFX_6_38
+  - first:
+      213: -2220943749318563564
+    second: BossPlaceVFX_6_39
+  - first:
+      213: 4825058902649474518
+    second: BossPlaceVFX_6_40
+  - first:
+      213: -2980285395423992294
+    second: BossPlaceVFX_6_41
+  - first:
+      213: 9034138712245557669
+    second: BossPlaceVFX_6_42
+  - first:
+      213: -3100878927103335359
+    second: BossPlaceVFX_6_43
+  - first:
+      213: 6136360213485906615
+    second: BossPlaceVFX_6_44
+  - first:
+      213: 8573766403952603555
+    second: BossPlaceVFX_6_45
+  - first:
+      213: 1577822249239644230
+    second: BossPlaceVFX_6_46
+  - first:
+      213: 5766026126920109486
+    second: BossPlaceVFX_6_47
+  - first:
+      213: 6258170105135675127
+    second: BossPlaceVFX_6_48
+  - first:
+      213: 5342685476705456676
+    second: BossPlaceVFX_6_49
+  - first:
+      213: 4109097497295843723
+    second: BossPlaceVFX_6_50
+  - first:
+      213: 4416456333467746250
+    second: BossPlaceVFX_6_51
+  - first:
+      213: -8174291783503406211
+    second: BossPlaceVFX_6_52
+  - first:
+      213: 8437399051248125129
+    second: BossPlaceVFX_6_53
+  - first:
+      213: 1543925642317406894
+    second: BossPlaceVFX_6_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 691
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37882fa210c1a9230800000000000000
+      internalID: 3646257639650920563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e58d8e8dad61170800000000000000
+      internalID: 8148941200927776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c254d645bb2730800000000000000
+      internalID: 3975470411899127548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 430
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f937afde2fef6c90800000000000000
+      internalID: -7174252696778098186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db648d44836c3510800000000000000
+      internalID: 1530207393286482896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90eefc8cc119ba0800000000000000
+      internalID: -6084049972793308701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_6
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1e5f5d58416ad0800000000000000
+      internalID: -2710805934831166663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_7
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 455
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46248579a29648230800000000000000
+      internalID: 3640150030470890084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_8
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f5619299cfcbce0800000000000000
+      internalID: -1387956850387427438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 431
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f41a611573f2920800000000000000
+      internalID: 2967651500871995253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_10
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 430
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac46ed5dd8f66b0800000000000000
+      internalID: -5300862286693086539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb705b1f7d6bd3680800000000000000
+      internalID: -8773655460458461253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187077b47cfcd330800000000000000
+      internalID: 3737139369034676253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_13
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5224b93c671d5b0800000000000000
+      internalID: -5345360700216564258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_14
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 455
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23fa84e15431a500800000000000000
+      internalID: 405662967771362091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_15
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c41294a038f5d0800000000000000
+      internalID: -3028617266023053005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_16
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 431
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf31e891fb28680800000000000000
+      internalID: -8754224609176061272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_17
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 430
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf8e6c5cdf48f150800000000000000
+      internalID: 5906558719158554590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_18
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcee203c035c034f0800000000000000
+      internalID: -850963516352172339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_19
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfeba7ec9c144e00800000000000000
+      internalID: 1027978075174596540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_20
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a30220ddc3e9770800000000000000
+      internalID: 8619393656754813451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_21
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 455
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d9996d1bc658f0800000000000000
+      internalID: -552030577120127722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_22
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac8f10413a14320800000000000000
+      internalID: 2540490971141425729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_23
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 431
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45346a46b116110800000000000000
+      internalID: 1252312290485818548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_24
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 430
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d23a24f5b8191900800000000000000
+      internalID: 655582390523671251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_25
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2efb00be192300800000000000000
+      internalID: 227746997623204705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_26
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9223ee5abac0e850800000000000000
+      internalID: 6404341571925516957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_27
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46496267316ac50800000000000000
+      internalID: 6676044895797667024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_28
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 455
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f10200224827a0800000000000000
+      internalID: -6401794165067089809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_29
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 440
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba58c1813b6d7d0800000000000000
+      internalID: -2893928794399855729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_30
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 431
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc4a716be00687e0800000000000000
+      internalID: -1763721193116250916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_31
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 430
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b7454fc6da60c0800000000000000
+      internalID: -4581613485187157299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_32
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 432
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae926361e9a2d50800000000000000
+      internalID: 6713352012784331455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_33
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565156d9fbdc19d80800000000000000
+      internalID: -8245583219875572379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_34
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 454
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be08d0a8c41cd50800000000000000
+      internalID: 6755765071848205100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a20f3e3b034da0800000000000000
+      internalID: -5961909119735388655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 410
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7f93e4a57658630800000000000000
+      internalID: 3928659887507765197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_37
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94292a44f100ba50800000000000000
+      internalID: 6534725208042448028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_38
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bdb38ad82f36850800000000000000
+      internalID: 6369200988258818893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_39
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192eb35d6f9d21e0800000000000000
+      internalID: -2220943749318563564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_40
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 410
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd02c8f18d06f240800000000000000
+      internalID: 4825058902649474518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_41
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e77c1936e3a6d0800000000000000
+      internalID: -2980285395423992294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_42
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9500b3b45bf5d70800000000000000
+      internalID: 9034138712245557669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_43
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e2828b0777f4d0800000000000000
+      internalID: -3100878927103335359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_44
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 410
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baeaa23a1bb82550800000000000000
+      internalID: 6136360213485906615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_45
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f5ce5e132cf670800000000000000
+      internalID: 8573766403952603555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_46
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64803acd9fc85e510800000000000000
+      internalID: 1577822249239644230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_47
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc1b4763a050050800000000000000
+      internalID: 5766026126920109486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_48
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 410
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b49cad8c79d650800000000000000
+      internalID: 6258170105135675127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_49
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422daa16228052a40800000000000000
+      internalID: 5342685476705456676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_50
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f3c12762760930800000000000000
+      internalID: 4109097497295843723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_51
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 422
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7e5ac2a76a4d30800000000000000
+      internalID: 4416456333467746250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_52
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 410
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b92e1aee41f8e80800000000000000
+      internalID: -8174291783503406211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_53
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4ccdddbb9a71570800000000000000
+      internalID: 8437399051248125129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceVFX_6_54
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea222fd01302d6510800000000000000
+      internalID: 1543925642317406894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f45c5e9ec969ec4584166bd3093e1f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossPlaceVFX_6_0: 3646257639650920563
+      BossPlaceVFX_6_1: 8148941200927776364
+      BossPlaceVFX_6_10: -5300862286693086539
+      BossPlaceVFX_6_11: -8773655460458461253
+      BossPlaceVFX_6_12: 3737139369034676253
+      BossPlaceVFX_6_13: -5345360700216564258
+      BossPlaceVFX_6_14: 405662967771362091
+      BossPlaceVFX_6_15: -3028617266023053005
+      BossPlaceVFX_6_16: -8754224609176061272
+      BossPlaceVFX_6_17: 5906558719158554590
+      BossPlaceVFX_6_18: -850963516352172339
+      BossPlaceVFX_6_19: 1027978075174596540
+      BossPlaceVFX_6_2: 3975470411899127548
+      BossPlaceVFX_6_20: 8619393656754813451
+      BossPlaceVFX_6_21: -552030577120127722
+      BossPlaceVFX_6_22: 2540490971141425729
+      BossPlaceVFX_6_23: 1252312290485818548
+      BossPlaceVFX_6_24: 655582390523671251
+      BossPlaceVFX_6_25: 227746997623204705
+      BossPlaceVFX_6_26: 6404341571925516957
+      BossPlaceVFX_6_27: 6676044895797667024
+      BossPlaceVFX_6_28: -6401794165067089809
+      BossPlaceVFX_6_29: -2893928794399855729
+      BossPlaceVFX_6_3: -7174252696778098186
+      BossPlaceVFX_6_30: -1763721193116250916
+      BossPlaceVFX_6_31: -4581613485187157299
+      BossPlaceVFX_6_32: 6713352012784331455
+      BossPlaceVFX_6_33: -8245583219875572379
+      BossPlaceVFX_6_34: 6755765071848205100
+      BossPlaceVFX_6_35: -5961909119735388655
+      BossPlaceVFX_6_36: 3928659887507765197
+      BossPlaceVFX_6_37: 6534725208042448028
+      BossPlaceVFX_6_38: 6369200988258818893
+      BossPlaceVFX_6_39: -2220943749318563564
+      BossPlaceVFX_6_4: 1530207393286482896
+      BossPlaceVFX_6_40: 4825058902649474518
+      BossPlaceVFX_6_41: -2980285395423992294
+      BossPlaceVFX_6_42: 9034138712245557669
+      BossPlaceVFX_6_43: -3100878927103335359
+      BossPlaceVFX_6_44: 6136360213485906615
+      BossPlaceVFX_6_45: 8573766403952603555
+      BossPlaceVFX_6_46: 1577822249239644230
+      BossPlaceVFX_6_47: 5766026126920109486
+      BossPlaceVFX_6_48: 6258170105135675127
+      BossPlaceVFX_6_49: 5342685476705456676
+      BossPlaceVFX_6_5: -6084049972793308701
+      BossPlaceVFX_6_50: 4109097497295843723
+      BossPlaceVFX_6_51: 4416456333467746250
+      BossPlaceVFX_6_52: -8174291783503406211
+      BossPlaceVFX_6_53: 8437399051248125129
+      BossPlaceVFX_6_54: 1543925642317406894
+      BossPlaceVFX_6_6: -2710805934831166663
+      BossPlaceVFX_6_7: 3640150030470890084
+      BossPlaceVFX_6_8: -1387956850387427438
+      BossPlaceVFX_6_9: 2967651500871995253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

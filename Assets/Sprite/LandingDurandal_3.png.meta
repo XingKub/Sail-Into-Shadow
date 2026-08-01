@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 2d04fdf1abeeb1b44bfc2f245806ffe7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9217566392160497286
+    second: LandingDurandal_3_0
+  - first:
+      213: 5099032130198367431
+    second: LandingDurandal_3_1
+  - first:
+      213: 4599295941978937513
+    second: LandingDurandal_3_2
+  - first:
+      213: 6248797708824191201
+    second: LandingDurandal_3_3
+  - first:
+      213: -3051407872950802822
+    second: LandingDurandal_3_4
+  - first:
+      213: -4711250600749497875
+    second: LandingDurandal_3_5
+  - first:
+      213: 4528514409855365996
+    second: LandingDurandal_3_6
+  - first:
+      213: -250087588179220051
+    second: LandingDurandal_3_7
+  - first:
+      213: 7656465929674307214
+    second: LandingDurandal_3_8
+  - first:
+      213: 4727329737686786799
+    second: LandingDurandal_3_9
+  - first:
+      213: 5467603296759271741
+    second: LandingDurandal_3_10
+  - first:
+      213: -2110649743456302530
+    second: LandingDurandal_3_11
+  - first:
+      213: -5992411203888081390
+    second: LandingDurandal_3_12
+  - first:
+      213: -2039082841391069074
+    second: LandingDurandal_3_13
+  - first:
+      213: 1414569522916974274
+    second: LandingDurandal_3_14
+  - first:
+      213: 3028657070065801918
+    second: LandingDurandal_3_15
+  - first:
+      213: -64356724860018397
+    second: LandingDurandal_3_16
+  - first:
+      213: 9088166630030449436
+    second: LandingDurandal_3_17
+  - first:
+      213: 5721105920786650506
+    second: LandingDurandal_3_18
+  - first:
+      213: -6322235712815643257
+    second: LandingDurandal_3_19
+  - first:
+      213: -2207982076645712759
+    second: LandingDurandal_3_20
+  - first:
+      213: 1426173089020201028
+    second: LandingDurandal_3_21
+  - first:
+      213: 400487594491547489
+    second: LandingDurandal_3_22
+  - first:
+      213: -3475373798645151581
+    second: LandingDurandal_3_23
+  - first:
+      213: 1141512501797498955
+    second: LandingDurandal_3_24
+  - first:
+      213: 8325921671895497087
+    second: LandingDurandal_3_25
+  - first:
+      213: -8752105590514627990
+    second: LandingDurandal_3_26
+  - first:
+      213: -2497371470744884917
+    second: LandingDurandal_3_27
+  - first:
+      213: -8547675510100393588
+    second: LandingDurandal_3_28
+  - first:
+      213: -5150418301200707748
+    second: LandingDurandal_3_29
+  - first:
+      213: -6945735253079944901
+    second: LandingDurandal_3_30
+  - first:
+      213: 5646922278979711083
+    second: LandingDurandal_3_31
+  - first:
+      213: 5563793241750239995
+    second: LandingDurandal_3_32
+  - first:
+      213: -1810025106692131193
+    second: LandingDurandal_3_33
+  - first:
+      213: 6172221896106768300
+    second: LandingDurandal_3_34
+  - first:
+      213: 4390372780116357196
+    second: LandingDurandal_3_35
+  - first:
+      213: 8086286065514275086
+    second: LandingDurandal_3_36
+  - first:
+      213: -2239057178521890178
+    second: LandingDurandal_3_37
+  - first:
+      213: -8108803698635833491
+    second: LandingDurandal_3_38
+  - first:
+      213: -9084030676660962553
+    second: LandingDurandal_3_39
+  - first:
+      213: -3365398432059038555
+    second: LandingDurandal_3_40
+  - first:
+      213: -5273023043161244481
+    second: LandingDurandal_3_41
+  - first:
+      213: -2844378701456488111
+    second: LandingDurandal_3_42
+  - first:
+      213: 4667228242037085390
+    second: LandingDurandal_3_43
+  - first:
+      213: 7175179108907197557
+    second: LandingDurandal_3_44
+  - first:
+      213: 8110279208192077575
+    second: LandingDurandal_3_45
+  - first:
+      213: -4244288251837226442
+    second: LandingDurandal_3_46
+  - first:
+      213: -1800683204299263338
+    second: LandingDurandal_3_47
+  - first:
+      213: -5653566416890940397
+    second: LandingDurandal_3_48
+  - first:
+      213: 7964573138292329118
+    second: LandingDurandal_3_49
+  - first:
+      213: 6879715078972054318
+    second: LandingDurandal_3_50
+  - first:
+      213: 707951681077326945
+    second: LandingDurandal_3_51
+  - first:
+      213: 1363196704163827658
+    second: LandingDurandal_3_52
+  - first:
+      213: 2463653422862206772
+    second: LandingDurandal_3_53
+  - first:
+      213: -6622845498647189756
+    second: LandingDurandal_3_54
+  - first:
+      213: 4315660137191211696
+    second: LandingDurandal_3_55
+  - first:
+      213: 3899995536923269407
+    second: LandingDurandal_3_56
+  - first:
+      213: 7401392134627647861
+    second: LandingDurandal_3_57
+  - first:
+      213: 6716980116075812564
+    second: LandingDurandal_3_58
+  - first:
+      213: -8174230679305889057
+    second: LandingDurandal_3_59
+  - first:
+      213: 8726752194650851566
+    second: LandingDurandal_3_60
+  - first:
+      213: -3128493803361522026
+    second: LandingDurandal_3_61
+  - first:
+      213: -5959435481810754759
+    second: LandingDurandal_3_62
+  - first:
+      213: 6470274852308001473
+    second: LandingDurandal_3_63
+  - first:
+      213: 4002324461019942579
+    second: LandingDurandal_3_64
+  - first:
+      213: 1723435363530505458
+    second: LandingDurandal_3_65
+  - first:
+      213: -7924399036219616338
+    second: LandingDurandal_3_66
+  - first:
+      213: 2653682144250636257
+    second: LandingDurandal_3_67
+  - first:
+      213: -3240718090694392217
+    second: LandingDurandal_3_68
+  - first:
+      213: -4482214519750665
+    second: LandingDurandal_3_69
+  - first:
+      213: 5685259004624678917
+    second: LandingDurandal_3_70
+  - first:
+      213: 809254524160585510
+    second: LandingDurandal_3_71
+  - first:
+      213: -5335568976176727756
+    second: LandingDurandal_3_72
+  - first:
+      213: -8320912052459234946
+    second: LandingDurandal_3_73
+  - first:
+      213: 2461988041601213848
+    second: LandingDurandal_3_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LandingDurandal_3_0
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 90
+        width: 306
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d1bdf330a41080800000000000000
+      internalID: -9217566392160497286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 188
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce6c2e4b663c640800000000000000
+      internalID: 5099032130198367431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 210
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8dc868a4bf3df30800000000000000
+      internalID: 4599295941978937513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 209
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0adbb986038b650800000000000000
+      internalID: 6248797708824191201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 216
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76efe3e4b837a5d0800000000000000
+      internalID: -3051407872950802822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 209
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10b763a864e9eb0800000000000000
+      internalID: -4711250600749497875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 179
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63baa7dcd388de30800000000000000
+      internalID: 4528514409855365996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 201
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e7dfd9a2878cf0800000000000000
+      internalID: -250087588179220051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_8
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 195
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863e15823b314a60800000000000000
+      internalID: 7656465929674307214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 198
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe226f69959da9140800000000000000
+      internalID: 4727329737686786799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 200
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d315714da34d0eb40800000000000000
+      internalID: 5467603296759271741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 159
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8404bd3775b2e0800000000000000
+      internalID: -2110649743456302530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 180
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2161e2c52cda6dca0800000000000000
+      internalID: -5992411203888081390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 188
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688a4395f8b3b3e0800000000000000
+      internalID: -2039082841391069074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 168
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5f838c7f81a310800000000000000
+      internalID: 1414569522916974274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 174
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5fb70f83f70a20800000000000000
+      internalID: 3028657070065801918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 173
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321afc356eb5b1ff0800000000000000
+      internalID: -64356724860018397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 162
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b168a1667af1e70800000000000000
+      internalID: 9088166630030449436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 173
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a855fd2f583756f40800000000000000
+      internalID: 5721105920786650506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c557ad18e248a0800000000000000
+      internalID: -6322235712815643257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 165
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5a1beffbab51e0800000000000000
+      internalID: -2207982076645712759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_21
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44845474ed8cac310800000000000000
+      internalID: 1426173089020201028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_22
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 164
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8e966851de8500800000000000000
+      internalID: 400487594491547489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_23
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 158
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a84e0681fdf4cfc0800000000000000
+      internalID: -3475373798645151581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_24
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 161
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40be48829777df00800000000000000
+      internalID: 1141512501797498955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 146
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79be01e5ad9b8370800000000000000
+      internalID: 8325921671895497087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 135
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4aa806564a8680800000000000000
+      internalID: -8752105590514627990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 150
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496e0601ed875dd0800000000000000
+      internalID: -2497371470744884917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_28
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 148
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81092d396e806980800000000000000
+      internalID: -8547675510100393588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_29
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fc248d7d90688b0800000000000000
+      internalID: -5150418301200707748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_30
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 136
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b311340669acb9f90800000000000000
+      internalID: -6945735253079944901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_31
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 135
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6033d0e4e5ed5e40800000000000000
+      internalID: 5646922278979711083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 142
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfafd32a970963d40800000000000000
+      internalID: 5563793241750239995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 135
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b31161cf71e6e0800000000000000
+      internalID: -1810025106692131193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_34
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 134
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f458dc1328a550800000000000000
+      internalID: 6172221896106768300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_35
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 142
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40316648ccbdec30800000000000000
+      internalID: 4390372780116357196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_36
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 141
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016b276552483070800000000000000
+      internalID: 8086286065514275086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 130
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e721a62fb554de0e0800000000000000
+      internalID: -2239057178521890178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_38
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 141
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fff659ffdb77f80800000000000000
+      internalID: -8108803698635833491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_39
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 140
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3fd49a3a0fe180800000000000000
+      internalID: -9084030676660962553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4e679e4f3bb41d0800000000000000
+      internalID: -3365398432059038555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_41
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 124
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcbcebda7572d6b0800000000000000
+      internalID: -5273023043161244481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 126
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159cff424acb688d0800000000000000
+      internalID: -2844378701456488111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_43
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 123
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec49a4cab5355c040800000000000000
+      internalID: 4667228242037085390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_44
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 133
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a732426b539360800000000000000
+      internalID: 7175179108907197557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_45
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 127
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f668148ff7d8070800000000000000
+      internalID: 8110279208192077575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_46
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 132
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e0e872524915c0800000000000000
+      internalID: -4244288251837226442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_47
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 126
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692fab68a20b207e0800000000000000
+      internalID: -1800683204299263338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_48
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 129
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31433273c4f7a81b0800000000000000
+      internalID: -5653566416890940397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_49
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 121
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a48873219d78e60800000000000000
+      internalID: 7964573138292329118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_50
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 112
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b170ef968a97f50800000000000000
+      internalID: 6879715078972054318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_51
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 120
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16431c49d4623d900800000000000000
+      internalID: 707951681077326945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_52
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 120
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0bae0e2c0be210800000000000000
+      internalID: 1363196704163827658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_53
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 113
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437806f2cb7a03220800000000000000
+      internalID: 2463653422862206772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_54
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 121
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407e6dabb1de614a0800000000000000
+      internalID: -6622845498647189756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b28898870e44eb30800000000000000
+      internalID: 4315660137191211696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_56
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 105
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f199beb17419f1630800000000000000
+      internalID: 3899995536923269407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_57
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 105
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571e9d3aee607b660800000000000000
+      internalID: 7401392134627647861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_58
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 104
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d69f06d3d1873d50800000000000000
+      internalID: 6716980116075812564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_59
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 107
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda5fdf818c4f8e80800000000000000
+      internalID: -8174230679305889057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_60
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 106
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8460d72e6ab1970800000000000000
+      internalID: 8726752194650851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_61
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 95
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e20a8167b5594d0800000000000000
+      internalID: -3128493803361522026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933afc4f005db4da0800000000000000
+      internalID: -5959435481810754759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_63
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 105
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c226fa72b80bc950800000000000000
+      internalID: 6470274852308001473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_64
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 97
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be43fe54ec1b8730800000000000000
+      internalID: 4002324461019942579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_65
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcf49cf45fdae710800000000000000
+      internalID: 1723435363530505458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_66
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 94
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39ea3df01e60290800000000000000
+      internalID: -7924399036219616338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_67
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e72bd2b9d5c3d420800000000000000
+      internalID: 2653682144250636257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_68
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 90
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668afa0118a603d0800000000000000
+      internalID: -3240718090694392217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_69
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 93
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff3ebb137310fff0800000000000000
+      internalID: -4482214519750665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_70
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 98
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500beb261f816ee40800000000000000
+      internalID: 5685259004624678917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_71
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f287db3bc0b3b00800000000000000
+      internalID: 809254524160585510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_72
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 97
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393464094044f5b0800000000000000
+      internalID: -5335568976176727756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_73
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7996e9039e268c80800000000000000
+      internalID: -8320912052459234946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LandingDurandal_3_74
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 94
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89566e4641dba2220800000000000000
+      internalID: 2461988041601213848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ddb9c8e7b14caa1479b6f228d13fb63b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LandingDurandal_3_0: -9217566392160497286
+      LandingDurandal_3_1: 5099032130198367431
+      LandingDurandal_3_10: 5467603296759271741
+      LandingDurandal_3_11: -2110649743456302530
+      LandingDurandal_3_12: -5992411203888081390
+      LandingDurandal_3_13: -2039082841391069074
+      LandingDurandal_3_14: 1414569522916974274
+      LandingDurandal_3_15: 3028657070065801918
+      LandingDurandal_3_16: -64356724860018397
+      LandingDurandal_3_17: 9088166630030449436
+      LandingDurandal_3_18: 5721105920786650506
+      LandingDurandal_3_19: -6322235712815643257
+      LandingDurandal_3_2: 4599295941978937513
+      LandingDurandal_3_20: -2207982076645712759
+      LandingDurandal_3_21: 1426173089020201028
+      LandingDurandal_3_22: 400487594491547489
+      LandingDurandal_3_23: -3475373798645151581
+      LandingDurandal_3_24: 1141512501797498955
+      LandingDurandal_3_25: 8325921671895497087
+      LandingDurandal_3_26: -8752105590514627990
+      LandingDurandal_3_27: -2497371470744884917
+      LandingDurandal_3_28: -8547675510100393588
+      LandingDurandal_3_29: -5150418301200707748
+      LandingDurandal_3_3: 6248797708824191201
+      LandingDurandal_3_30: -6945735253079944901
+      LandingDurandal_3_31: 5646922278979711083
+      LandingDurandal_3_32: 5563793241750239995
+      LandingDurandal_3_33: -1810025106692131193
+      LandingDurandal_3_34: 6172221896106768300
+      LandingDurandal_3_35: 4390372780116357196
+      LandingDurandal_3_36: 8086286065514275086
+      LandingDurandal_3_37: -2239057178521890178
+      LandingDurandal_3_38: -8108803698635833491
+      LandingDurandal_3_39: -9084030676660962553
+      LandingDurandal_3_4: -3051407872950802822
+      LandingDurandal_3_40: -3365398432059038555
+      LandingDurandal_3_41: -5273023043161244481
+      LandingDurandal_3_42: -2844378701456488111
+      LandingDurandal_3_43: 4667228242037085390
+      LandingDurandal_3_44: 7175179108907197557
+      LandingDurandal_3_45: 8110279208192077575
+      LandingDurandal_3_46: -4244288251837226442
+      LandingDurandal_3_47: -1800683204299263338
+      LandingDurandal_3_48: -5653566416890940397
+      LandingDurandal_3_49: 7964573138292329118
+      LandingDurandal_3_5: -4711250600749497875
+      LandingDurandal_3_50: 6879715078972054318
+      LandingDurandal_3_51: 707951681077326945
+      LandingDurandal_3_52: 1363196704163827658
+      LandingDurandal_3_53: 2463653422862206772
+      LandingDurandal_3_54: -6622845498647189756
+      LandingDurandal_3_55: 4315660137191211696
+      LandingDurandal_3_56: 3899995536923269407
+      LandingDurandal_3_57: 7401392134627647861
+      LandingDurandal_3_58: 6716980116075812564
+      LandingDurandal_3_59: -8174230679305889057
+      LandingDurandal_3_6: 4528514409855365996
+      LandingDurandal_3_60: 8726752194650851566
+      LandingDurandal_3_61: -3128493803361522026
+      LandingDurandal_3_62: -5959435481810754759
+      LandingDurandal_3_63: 6470274852308001473
+      LandingDurandal_3_64: 4002324461019942579
+      LandingDurandal_3_65: 1723435363530505458
+      LandingDurandal_3_66: -7924399036219616338
+      LandingDurandal_3_67: 2653682144250636257
+      LandingDurandal_3_68: -3240718090694392217
+      LandingDurandal_3_69: -4482214519750665
+      LandingDurandal_3_7: -250087588179220051
+      LandingDurandal_3_70: 5685259004624678917
+      LandingDurandal_3_71: 809254524160585510
+      LandingDurandal_3_72: -5335568976176727756
+      LandingDurandal_3_73: -8320912052459234946
+      LandingDurandal_3_74: 2461988041601213848
+      LandingDurandal_3_8: 7656465929674307214
+      LandingDurandal_3_9: 4727329737686786799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Attackable
+  - Player
+  - Background
+  - HealObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: KillZone
+    uniqueID: 1608670311
+    locked: 0
+  - name: Sky
+    uniqueID: 283577603
+    locked: 0
+  - name: Fog
+    uniqueID: 906242863
+    locked: 0
+  - name: Rock
+    uniqueID: 3965267879
+    locked: 0
+  - name: Player
+    uniqueID: 2168452267
+    locked: 0
+  - name: Spike
+    uniqueID: 1886191917
+    locked: 0
+  m_RenderingLayers:
+  - Default

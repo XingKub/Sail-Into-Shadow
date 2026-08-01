@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 0a6cd4d7226be7c46aa1d0fb31700ea8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6561755826124762791
+    second: Skill3_26_0
+  - first:
+      213: 5721716939533611976
+    second: Skill3_26_1
+  - first:
+      213: -1588133163613670151
+    second: Skill3_26_2
+  - first:
+      213: -6052352566893434055
+    second: Skill3_26_3
+  - first:
+      213: -8754145237704428044
+    second: Skill3_26_4
+  - first:
+      213: 2373245386847463351
+    second: Skill3_26_5
+  - first:
+      213: 2123129379500273704
+    second: Skill3_26_6
+  - first:
+      213: -1222437967672281282
+    second: Skill3_26_7
+  - first:
+      213: 5446870229805034359
+    second: Skill3_26_8
+  - first:
+      213: 116814798947045771
+    second: Skill3_26_9
+  - first:
+      213: -3587991251550863663
+    second: Skill3_26_10
+  - first:
+      213: -8159580175157368490
+    second: Skill3_26_11
+  - first:
+      213: 2906680623143447734
+    second: Skill3_26_12
+  - first:
+      213: -3992967392208147722
+    second: Skill3_26_13
+  - first:
+      213: 8711798415482299361
+    second: Skill3_26_14
+  - first:
+      213: -8989849553182163442
+    second: Skill3_26_15
+  - first:
+      213: -826823723792167388
+    second: Skill3_26_16
+  - first:
+      213: -3610936591795712211
+    second: Skill3_26_17
+  - first:
+      213: -2071431121147946213
+    second: Skill3_26_18
+  - first:
+      213: 2519472058620896674
+    second: Skill3_26_19
+  - first:
+      213: 7355841361221582204
+    second: Skill3_26_20
+  - first:
+      213: -4473672785566227656
+    second: Skill3_26_21
+  - first:
+      213: 3970461933757564678
+    second: Skill3_26_22
+  - first:
+      213: 7500255553024369215
+    second: Skill3_26_23
+  - first:
+      213: 8857558213228427036
+    second: Skill3_26_24
+  - first:
+      213: -101188392274933285
+    second: Skill3_26_25
+  - first:
+      213: -404606546555855668
+    second: Skill3_26_26
+  - first:
+      213: 2221692053096844837
+    second: Skill3_26_27
+  - first:
+      213: 8094544750986519314
+    second: Skill3_26_28
+  - first:
+      213: 660994396656001440
+    second: Skill3_26_29
+  - first:
+      213: 599949458087329572
+    second: Skill3_26_30
+  - first:
+      213: -9032823739525161241
+    second: Skill3_26_31
+  - first:
+      213: 5794205782158228108
+    second: Skill3_26_32
+  - first:
+      213: 4066658348519698594
+    second: Skill3_26_33
+  - first:
+      213: 4353128466338773233
+    second: Skill3_26_34
+  - first:
+      213: -4173030499398334054
+    second: Skill3_26_35
+  - first:
+      213: -2511345727229215557
+    second: Skill3_26_36
+  - first:
+      213: 6696762171136345346
+    second: Skill3_26_37
+  - first:
+      213: -7093646703823021276
+    second: Skill3_26_38
+  - first:
+      213: 4032754170503063690
+    second: Skill3_26_39
+  - first:
+      213: 3569820133008390802
+    second: Skill3_26_40
+  - first:
+      213: -833291386953739523
+    second: Skill3_26_41
+  - first:
+      213: -7451359902400606771
+    second: Skill3_26_42
+  - first:
+      213: 7583729272052909712
+    second: Skill3_26_43
+  - first:
+      213: -6742857959760574714
+    second: Skill3_26_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill3_26_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 402
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28637707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae240f782a001b50800000000000000
+      internalID: 6561755826124762791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c37c36dd3f976f40800000000000000
+      internalID: 5721716939533611976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f43ace4d41d5f9e0800000000000000
+      internalID: -1588133163613670151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 197
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba4ea3869b10ca0800000000000000
+      internalID: -6052352566893434055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5337aa947038680800000000000000
+      internalID: -8754145237704428044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 199
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a0e7fa167fe020800000000000000
+      internalID: 2373245386847463351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203f4dfbeed67d10800000000000000
+      internalID: 2123129379500273704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3771f82527090fe0800000000000000
+      internalID: -1222437967672281282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bed218d9b279b40800000000000000
+      internalID: 5446870229805034359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815fb3d0720f9100800000000000000
+      internalID: 116814798947045771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1def91a77f4e43ec0800000000000000
+      internalID: -3587991251550863663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ec6fdf0953ce80800000000000000
+      internalID: -8159580175157368490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce9f160aa965820800000000000000
+      internalID: 2906680623143447734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa27bbff412698c0800000000000000
+      internalID: -3992967392208147722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e322a5708686e870800000000000000
+      internalID: 8711798415482299361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7f5e2673ad3380800000000000000
+      internalID: -8989849553182163442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e808334388684f0800000000000000
+      internalID: -826823723792167388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f8e832d4063edc0800000000000000
+      internalID: -3610936591795712211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b9947ce5cc043e0800000000000000
+      internalID: -2071431121147946213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5ee931d76f6f220800000000000000
+      internalID: 2519472058620896674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 155
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dfcbfbeb2351660800000000000000
+      internalID: 7355841361221582204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 138
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332ef6dd425ae1c0800000000000000
+      internalID: -4473672785566227656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60784d3a71ae91730800000000000000
+      internalID: 3970461933757564678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f322baaffa2461860800000000000000
+      internalID: 7500255553024369215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f2dcf34e5cea70800000000000000
+      internalID: 8857558213228427036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd94f0f71b1889ef0800000000000000
+      internalID: -101188392274933285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc9db65d7c826af0800000000000000
+      internalID: -404606546555855668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e4529b62905de10800000000000000
+      internalID: 2221692053096844837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 133
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ed057099955070800000000000000
+      internalID: 8094544750986519314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16433d6e25c2900800000000000000
+      internalID: 660994396656001440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fbb7c7ad2735800800000000000000
+      internalID: 599949458087329572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee13e6baa6f4a280800000000000000
+      internalID: -9032823739525161241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 131
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a3e09b577296050800000000000000
+      internalID: 5794205782158228108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 131
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b46ec83caf6830800000000000000
+      internalID: 4066658348519698594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f873c9b64b696c30800000000000000
+      internalID: 4353128466338773233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99cd76deda6616c0800000000000000
+      internalID: -4173030499398334054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbe44ed58e52dd0800000000000000
+      internalID: -2511345727229215557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2050bd3b6bdafec50800000000000000
+      internalID: 6696762171136345346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b128818ed4e8d90800000000000000
+      internalID: -7093646703823021276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a886f473d8837f730800000000000000
+      internalID: 4032754170503063690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab00c4f7c8a8130800000000000000
+      internalID: 3569820133008390802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2da3606ed8f64f0800000000000000
+      internalID: -833291386953739523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd82d3d5a3779890800000000000000
+      internalID: -7451359902400606771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0960275b791de3960800000000000000
+      internalID: 7583729272052909712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill3_26_44
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 101
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074e89296e8c62a0800000000000000
+      internalID: -6742857959760574714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7af5eaabe502484aa2ba025cf4ed104
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill3_26_0: 6561755826124762791
+      Skill3_26_1: 5721716939533611976
+      Skill3_26_10: -3587991251550863663
+      Skill3_26_11: -8159580175157368490
+      Skill3_26_12: 2906680623143447734
+      Skill3_26_13: -3992967392208147722
+      Skill3_26_14: 8711798415482299361
+      Skill3_26_15: -8989849553182163442
+      Skill3_26_16: -826823723792167388
+      Skill3_26_17: -3610936591795712211
+      Skill3_26_18: -2071431121147946213
+      Skill3_26_19: 2519472058620896674
+      Skill3_26_2: -1588133163613670151
+      Skill3_26_20: 7355841361221582204
+      Skill3_26_21: -4473672785566227656
+      Skill3_26_22: 3970461933757564678
+      Skill3_26_23: 7500255553024369215
+      Skill3_26_24: 8857558213228427036
+      Skill3_26_25: -101188392274933285
+      Skill3_26_26: -404606546555855668
+      Skill3_26_27: 2221692053096844837
+      Skill3_26_28: 8094544750986519314
+      Skill3_26_29: 660994396656001440
+      Skill3_26_3: -6052352566893434055
+      Skill3_26_30: 599949458087329572
+      Skill3_26_31: -9032823739525161241
+      Skill3_26_32: 5794205782158228108
+      Skill3_26_33: 4066658348519698594
+      Skill3_26_34: 4353128466338773233
+      Skill3_26_35: -4173030499398334054
+      Skill3_26_36: -2511345727229215557
+      Skill3_26_37: 6696762171136345346
+      Skill3_26_38: -7093646703823021276
+      Skill3_26_39: 4032754170503063690
+      Skill3_26_4: -8754145237704428044
+      Skill3_26_40: 3569820133008390802
+      Skill3_26_41: -833291386953739523
+      Skill3_26_42: -7451359902400606771
+      Skill3_26_43: 7583729272052909712
+      Skill3_26_44: -6742857959760574714
+      Skill3_26_5: 2373245386847463351
+      Skill3_26_6: 2123129379500273704
+      Skill3_26_7: -1222437967672281282
+      Skill3_26_8: 5446870229805034359
+      Skill3_26_9: 116814798947045771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

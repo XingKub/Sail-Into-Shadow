@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: cb773e4eeffad844988cc150ec8aed5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7520959879688657133
+    second: BossPlaceChair_0
+  - first:
+      213: 7350192969843341170
+    second: BossPlaceChair_1
+  - first:
+      213: 7971498974223411314
+    second: BossPlaceChair_2
+  - first:
+      213: -2000425220898275966
+    second: BossPlaceChair_3
+  - first:
+      213: -9106507112419083615
+    second: BossPlaceChair_4
+  - first:
+      213: 90419393677278593
+    second: BossPlaceChair_5
+  - first:
+      213: -7137591283095028971
+    second: BossPlaceChair_6
+  - first:
+      213: -8039433992516605285
+    second: BossPlaceChair_7
+  - first:
+      213: -5284815143106744659
+    second: BossPlaceChair_8
+  - first:
+      213: 6166598928400260697
+    second: BossPlaceChair_9
+  - first:
+      213: -8364218385358332200
+    second: BossPlaceChair_10
+  - first:
+      213: -9058590241440999463
+    second: BossPlaceChair_11
+  - first:
+      213: -3522292430872272237
+    second: BossPlaceChair_12
+  - first:
+      213: 7520230165401199343
+    second: BossPlaceChair_13
+  - first:
+      213: 274461525765208747
+    second: BossPlaceChair_14
+  - first:
+      213: 6949296415853925160
+    second: BossPlaceChair_15
+  - first:
+      213: 8088114912199356428
+    second: BossPlaceChair_16
+  - first:
+      213: 8207703001645280085
+    second: BossPlaceChair_17
+  - first:
+      213: 4092904233763075727
+    second: BossPlaceChair_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossPlaceChair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3414
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317613156de20a790800000000000000
+      internalID: -7520959879688657133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f5162091210660800000000000000
+      internalID: 7350192969843341170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2782afd051470ae60800000000000000
+      internalID: 7971498974223411314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d30ac3cdf0d34e0800000000000000
+      internalID: -2000425220898275966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_4
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa31b397003f9180800000000000000
+      internalID: -9106507112419083615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18db0f0a5fb314100800000000000000
+      internalID: 90419393677278593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b323b6b8e22fc90800000000000000
+      internalID: -7137591283095028971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae8d8e0613e6090800000000000000
+      internalID: -8039433992516605285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_8
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae6483a0a098a6b0800000000000000
+      internalID: -5284815143106744659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_9
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1a97ad09249550800000000000000
+      internalID: 6166598928400260697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_10
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dedceca1b35ceb80800000000000000
+      internalID: -8364218385358332200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_11
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d61d7b2c694280800000000000000
+      internalID: -9058590241440999463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_12
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392afce22bd4e1fc0800000000000000
+      internalID: -3522292430872272237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_13
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26ae5dd793d5860800000000000000
+      internalID: 7520230165401199343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_14
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3fb3bd451fc300800000000000000
+      internalID: 274461525765208747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_15
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8235ed1754cd07060800000000000000
+      internalID: 6949296415853925160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_16
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00be24f8a1ce3070800000000000000
+      internalID: 8088114912199356428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_17
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b69fac46e97e170800000000000000
+      internalID: 8207703001645280085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPlaceChair_18
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 191
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86f32927baecc830800000000000000
+      internalID: 4092904233763075727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 16dd93fc5e4ed4143b006713c9a62144
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossPlaceChair_0: -7520959879688657133
+      BossPlaceChair_1: 7350192969843341170
+      BossPlaceChair_10: -8364218385358332200
+      BossPlaceChair_11: -9058590241440999463
+      BossPlaceChair_12: -3522292430872272237
+      BossPlaceChair_13: 7520230165401199343
+      BossPlaceChair_14: 274461525765208747
+      BossPlaceChair_15: 6949296415853925160
+      BossPlaceChair_16: 8088114912199356428
+      BossPlaceChair_17: 8207703001645280085
+      BossPlaceChair_18: 4092904233763075727
+      BossPlaceChair_2: 7971498974223411314
+      BossPlaceChair_3: -2000425220898275966
+      BossPlaceChair_4: -9106507112419083615
+      BossPlaceChair_5: 90419393677278593
+      BossPlaceChair_6: -7137591283095028971
+      BossPlaceChair_7: -8039433992516605285
+      BossPlaceChair_8: -5284815143106744659
+      BossPlaceChair_9: 6166598928400260697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

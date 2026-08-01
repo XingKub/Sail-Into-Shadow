@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f0e426da2d3408f4791bad198e460f4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8525913394004762077
+    second: DurandalHealthFrame_0
+  - first:
+      213: 8482640138007010606
+    second: DurandalHealthFrame_1
+  - first:
+      213: -8000837355937631747
+    second: DurandalHealthFrame_2
+  - first:
+      213: 1066134597381505428
+    second: DurandalHealthFrame_3
+  - first:
+      213: -3672490679647601807
+    second: DurandalHealthFrame_4
+  - first:
+      213: 1166973061291150086
+    second: DurandalHealthFrame_5
+  - first:
+      213: 5056023628579692413
+    second: DurandalHealthFrame_6
+  - first:
+      213: 8662208750881788470
+    second: DurandalHealthFrame_7
+  - first:
+      213: 168719924756068597
+    second: DurandalHealthFrame_8
+  - first:
+      213: -290099719990700822
+    second: DurandalHealthFrame_9
+  - first:
+      213: -8427228658251830336
+    second: DurandalHealthFrame_10
+  - first:
+      213: -4855918966250989079
+    second: DurandalHealthFrame_11
+  - first:
+      213: -5276498355758252049
+    second: DurandalHealthFrame_12
+  - first:
+      213: -6487962485317633714
+    second: DurandalHealthFrame_13
+  - first:
+      213: -5754780681588034347
+    second: DurandalHealthFrame_14
+  - first:
+      213: 4732487467983534547
+    second: DurandalHealthFrame_15
+  - first:
+      213: 3971465224466076146
+    second: DurandalHealthFrame_16
+  - first:
+      213: -2647155230745512240
+    second: DurandalHealthFrame_17
+  - first:
+      213: -6335188251047391967
+    second: DurandalHealthFrame_18
+  - first:
+      213: -1649160383745284391
+    second: DurandalHealthFrame_19
+  - first:
+      213: -7406558288056135114
+    second: DurandalHealthFrame_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DurandalHealthFrame_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 612
+        width: 631
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322e99cb0fedda980800000000000000
+      internalID: -8525913394004762077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_1
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 679
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd067334468b570800000000000000
+      internalID: 8482640138007010606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 679
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df179a5a0d057f090800000000000000
+      internalID: -8000837355937631747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 679
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491cda784cbabce00800000000000000
+      internalID: 1066134597381505428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 679
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bfbae3f21b80dc0800000000000000
+      internalID: -3672490679647601807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 679
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b85bcf0dbe13010800000000000000
+      internalID: 1166973061291150086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_6
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 679
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5975c3ba9a2640800000000000000
+      internalID: 5056023628579692413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 679
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d69ee6f8563870800000000000000
+      internalID: 8662208750881788470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_8
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 677
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8bd9da0e9675200800000000000000
+      internalID: 168719924756068597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4938877db59fbf0800000000000000
+      internalID: -290099719990700822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_10
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 614
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb68e74f287c0b80800000000000000
+      internalID: -8427228658251830336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 612
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9178e8d6f4c9cb0800000000000000
+      internalID: -4855918966250989079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefb81793bc16c6b0800000000000000
+      internalID: -5276498355758252049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 613
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f49a8e7026f5a0800000000000000
+      internalID: -6487962485317633714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_14
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 613
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d43aa1d579e220b0800000000000000
+      internalID: -5754780681588034347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 612
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97521474c2da140800000000000000
+      internalID: 4732487467983534547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 613
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f11e16749a7d1730800000000000000
+      internalID: 3971465224466076146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 614
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6b816c75a634bd0800000000000000
+      internalID: -2647155230745512240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 613
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8717d9d3e418a0800000000000000
+      internalID: -6335188251047391967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_19
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 614
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6273d5e510d19e0800000000000000
+      internalID: -1649160383745284391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DurandalHealthFrame_20
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63250388a7e963990800000000000000
+      internalID: -7406558288056135114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 92aabfd242ffb50459c880f23f8262f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DurandalHealthFrame_0: -8525913394004762077
+      DurandalHealthFrame_1: 8482640138007010606
+      DurandalHealthFrame_10: -8427228658251830336
+      DurandalHealthFrame_11: -4855918966250989079
+      DurandalHealthFrame_12: -5276498355758252049
+      DurandalHealthFrame_13: -6487962485317633714
+      DurandalHealthFrame_14: -5754780681588034347
+      DurandalHealthFrame_15: 4732487467983534547
+      DurandalHealthFrame_16: 3971465224466076146
+      DurandalHealthFrame_17: -2647155230745512240
+      DurandalHealthFrame_18: -6335188251047391967
+      DurandalHealthFrame_19: -1649160383745284391
+      DurandalHealthFrame_2: -8000837355937631747
+      DurandalHealthFrame_20: -7406558288056135114
+      DurandalHealthFrame_3: 1066134597381505428
+      DurandalHealthFrame_4: -3672490679647601807
+      DurandalHealthFrame_5: 1166973061291150086
+      DurandalHealthFrame_6: 5056023628579692413
+      DurandalHealthFrame_7: 8662208750881788470
+      DurandalHealthFrame_8: 168719924756068597
+      DurandalHealthFrame_9: -290099719990700822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

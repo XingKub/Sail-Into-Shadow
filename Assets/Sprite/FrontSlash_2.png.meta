@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: e00a43a9cbdbf814aa6ea13faaf2abd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4193904012171682717
+    second: FrontSlash_2_0
+  - first:
+      213: 1143576774172498579
+    second: FrontSlash_2_1
+  - first:
+      213: -5922430108347494649
+    second: FrontSlash_2_2
+  - first:
+      213: -7082405498842289359
+    second: FrontSlash_2_3
+  - first:
+      213: 5275681249397356777
+    second: FrontSlash_2_4
+  - first:
+      213: 4417517407243298486
+    second: FrontSlash_2_5
+  - first:
+      213: -6862253332968919749
+    second: FrontSlash_2_6
+  - first:
+      213: -7248193580625494423
+    second: FrontSlash_2_7
+  - first:
+      213: -696817659201424111
+    second: FrontSlash_2_8
+  - first:
+      213: -1031408231424864947
+    second: FrontSlash_2_9
+  - first:
+      213: 1310180746739473216
+    second: FrontSlash_2_10
+  - first:
+      213: 6336587293109051510
+    second: FrontSlash_2_11
+  - first:
+      213: 7215765691900095542
+    second: FrontSlash_2_12
+  - first:
+      213: 3234000340610929107
+    second: FrontSlash_2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontSlash_2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 207
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49599102, y: 0.4977891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cdb6c65824cc5c0800000000000000
+      internalID: -4193904012171682717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 165
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a50f5640dcedf00800000000000000
+      internalID: 1143576774172498579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 153
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f8ed0e13d4fcda0800000000000000
+      internalID: -5922430108347494649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 165
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6b3619bd36bd90800000000000000
+      internalID: -7082405498842289359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 94
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8b482052cf63940800000000000000
+      internalID: 5275681249397356777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b667d74dac2e4d30800000000000000
+      internalID: 4417517407243298486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da5a193f064c0a0800000000000000
+      internalID: -6862253332968919749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96efc8b475e396b90800000000000000
+      internalID: -7248193580625494423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 98
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1157416e7086456f0800000000000000
+      internalID: -696817659201424111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 107
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dc18b9da3bfa1f0800000000000000
+      internalID: -1031408231424864947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 119
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b56f09272be2210800000000000000
+      internalID: 1310180746739473216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 111
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e406029410f750800000000000000
+      internalID: 6336587293109051510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 99
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce7208aac832460800000000000000
+      internalID: 7215765691900095542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontSlash_2_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 92
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15b91ec2a71ec20800000000000000
+      internalID: 3234000340610929107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42ffd2a18a1ce364c802c826bad24d37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FrontSlash_2_0: -4193904012171682717
+      FrontSlash_2_1: 1143576774172498579
+      FrontSlash_2_10: 1310180746739473216
+      FrontSlash_2_11: 6336587293109051510
+      FrontSlash_2_12: 7215765691900095542
+      FrontSlash_2_13: 3234000340610929107
+      FrontSlash_2_2: -5922430108347494649
+      FrontSlash_2_3: -7082405498842289359
+      FrontSlash_2_4: 5275681249397356777
+      FrontSlash_2_5: 4417517407243298486
+      FrontSlash_2_6: -6862253332968919749
+      FrontSlash_2_7: -7248193580625494423
+      FrontSlash_2_8: -696817659201424111
+      FrontSlash_2_9: -1031408231424864947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

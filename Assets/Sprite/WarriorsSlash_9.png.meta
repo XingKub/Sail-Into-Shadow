@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 6c799268277cef2449af6636e9a5f910
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8918587546376108176
+    second: WarriorsSlash_9_0
+  - first:
+      213: -1872500366813284864
+    second: WarriorsSlash_9_1
+  - first:
+      213: 4133601276696557914
+    second: WarriorsSlash_9_2
+  - first:
+      213: 7698899601334031348
+    second: WarriorsSlash_9_3
+  - first:
+      213: -5634186367532511863
+    second: WarriorsSlash_9_4
+  - first:
+      213: 8898970211154632646
+    second: WarriorsSlash_9_5
+  - first:
+      213: 2390521398558420968
+    second: WarriorsSlash_9_6
+  - first:
+      213: 3715839834832279405
+    second: WarriorsSlash_9_7
+  - first:
+      213: 1513179439220416470
+    second: WarriorsSlash_9_8
+  - first:
+      213: -6210217642519804862
+    second: WarriorsSlash_9_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarriorsSlash_9_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 152
+        height: 72
+      alignment: 9
+      pivot: {x: 0.24835697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09878f7ee1035cb70800000000000000
+      internalID: 8918587546376108176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0063e4a56da8306e0800000000000000
+      internalID: -1872500366813284864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59799cd5708d5930800000000000000
+      internalID: 4133601276696557914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f359ea956cf7da60800000000000000
+      internalID: 7698899601334031348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 121
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d40e499595fc1b0800000000000000
+      internalID: -5634186367532511863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 117
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf97ae124e7f7b70800000000000000
+      internalID: 8898970211154632646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 129
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6b05eb86dc2120800000000000000
+      internalID: 2390521398558420968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 100
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d679c6574a0519330800000000000000
+      internalID: 3715839834832279405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df582ccea4eff410800000000000000
+      internalID: 1513179439220416470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsSlash_9_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2444ebf05ffd0d9a0800000000000000
+      internalID: -6210217642519804862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9fd3ace1e566cd4dad08157a0e87356
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarriorsSlash_9_0: 8918587546376108176
+      WarriorsSlash_9_1: -1872500366813284864
+      WarriorsSlash_9_2: 4133601276696557914
+      WarriorsSlash_9_3: 7698899601334031348
+      WarriorsSlash_9_4: -5634186367532511863
+      WarriorsSlash_9_5: 8898970211154632646
+      WarriorsSlash_9_6: 2390521398558420968
+      WarriorsSlash_9_7: 3715839834832279405
+      WarriorsSlash_9_8: 1513179439220416470
+      WarriorsSlash_9_9: -6210217642519804862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
