@@ -12,6 +12,7 @@ Platform : PC
 เครื่องมือพัฒนา : Unity 6.3 LTS (6000.3.10f1)
 Language : C#
 IDE : Visual Studio Code
+โปรแกรมวาดกราฟิกในเกม : Aseprite
 
 ระบบเกม
 //ระบบผู้เล่นการเคลื่อนที่การกระโดดการ dash สกิลการโจมตีต่างๆ
